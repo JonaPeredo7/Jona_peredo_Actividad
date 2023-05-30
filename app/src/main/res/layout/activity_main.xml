@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:background="#F4F0F0"
         android:gravity="center"
-        android:text="Bienvenidos"
+        android:text="@string/bienvenidos"
         android:textColor="#090909"
         android:textSize="28sp" />
 
@@ -27,7 +27,7 @@
         android:layout_marginTop="10dp"
         android:background="#EDE8E8"
         android:gravity="center"
-        android:text="Ingrese su Email"
+        android:text="@string/ingrese_su_email"
         android:textColor="#040303"
         android:textSize="18sp" />
 
@@ -48,7 +48,7 @@
         android:layout_marginTop="10dp"
         android:background="#FAF6F6"
         android:gravity="center"
-        android:text="Ingrese su Contraseña"
+        android:text="@string/ingrese_su_contrase_a"
         android:textColor="#0B0A0A"
         android:textSize="18sp" />
 
@@ -58,6 +58,7 @@
         android:layout_height="wrap_content"
         android:background="#F4EEEE"
         android:ems="10"
+        android:hint="@string/contrase_a"
         android:inputType="textPassword"
         android:textColor="#040303" />
 
@@ -66,7 +67,7 @@
         android:layout_width="match_parent"
         android:layout_height="76dp"
         android:background="#EC1C24"
-        android:text="Ingresar" />
+        android:text="@string/ingresar" />
 
     <ImageView
         android:id="@+id/imageView"

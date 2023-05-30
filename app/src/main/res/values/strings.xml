@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jona</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ingrese_su_email">Ingrese su Email</string>
+    <string name="ingrese_su_contrase_a">Ingrese su Contraseña</string>
+    <string name="contrase_a">Contraseña</string>
 </resources>
